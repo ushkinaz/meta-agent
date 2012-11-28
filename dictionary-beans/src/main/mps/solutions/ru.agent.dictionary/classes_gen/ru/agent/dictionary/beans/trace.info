@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="7323242700666156895" modelId="r:d9cb66b1-b355-4ac9-8d45-f693fb0dd0d5(ru.agent.dictionary.beans)">
+    <nodeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="6" startPosition="20" endLine="7" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourName" />
+    <nodeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="7" startPosition="25" endLine="8" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourUselessSelves" />
+    <nodeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="13" startPosition="27" endLine="14" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="17" startPosition="37" endLine="18" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="21" startPosition="35" endLine="22" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="25" startPosition="45" endLine="26" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7323242700666156895" fileName="Order.java" startLine="9" startPosition="0" endLine="11" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Order#()V" />
+    <nodeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="12" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getUselessSelves#()Lru/agent/dictionary/beans/Order;" />
+    <nodeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setUselessSelves#(Lru/agent/dictionary/beans/Order;)V" />
+    <scopeInfo nodeId="7323242700666156895" fileName="Order.java" startLine="10" startPosition="18" endLine="10" endPosition="18" />
+    <scopeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="13" startPosition="27" endLine="14" endPosition="30" />
+    <scopeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="17" startPosition="37" endLine="18" endPosition="31" />
+    <scopeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="21" startPosition="35" endLine="22" endPosition="39" />
+    <scopeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="25" startPosition="45" endLine="26" endPosition="40" />
+    <scopeInfo nodeId="7323242700666156895" fileName="Order.java" startLine="9" startPosition="0" endLine="11" endPosition="3" />
+    <scopeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="12" startPosition="0" endLine="16" endPosition="0" />
+    <scopeInfo nodeId="7323242700666158434" fileName="Order.java" startLine="16" startPosition="0" endLine="20" endPosition="0">
+      <varInfo nodeId="7323242700666158434" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="7323242700666158442" fileName="Order.java" startLine="24" startPosition="0" endLine="28" endPosition="0">
+      <varInfo nodeId="7323242700666158442" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="7323242700666156895" fileName="Order.java" startLine="6" startPosition="0" endLine="29" endPosition="0" unitName="ru.agent.dictionary.beans.Order" />
+  </root>
+  <root nodeId="7599577621032099350" modelId="r:d9cb66b1-b355-4ac9-8d45-f693fb0dd0d5(ru.agent.dictionary.beans)">
+    <nodeInfo nodeId="7599577621032099356" fileName="City.java" startLine="6" startPosition="19" endLine="7" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourName" />
+    <nodeInfo nodeId="7599577621032099364" fileName="City.java" startLine="7" startPosition="25" endLine="8" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourName_en" />
+    <nodeInfo nodeId="7599577621032099372" fileName="City.java" startLine="8" startPosition="28" endLine="9" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourIata_code" />
+    <nodeInfo nodeId="7599577621032099356" fileName="City.java" startLine="14" startPosition="27" endLine="15" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621032099356" fileName="City.java" startLine="18" startPosition="37" endLine="19" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7599577621032099364" fileName="City.java" startLine="22" startPosition="30" endLine="23" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621032099364" fileName="City.java" startLine="26" startPosition="40" endLine="27" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7599577621032099372" fileName="City.java" startLine="30" startPosition="32" endLine="31" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621032099372" fileName="City.java" startLine="34" startPosition="42" endLine="35" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7599577621032099350" fileName="City.java" startLine="10" startPosition="0" endLine="12" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="City#()V" />
+    <nodeInfo nodeId="7599577621032099356" fileName="City.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7599577621032099356" fileName="City.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="7599577621032099364" fileName="City.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName_en#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7599577621032099364" fileName="City.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName_en#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="7599577621032099372" fileName="City.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getIata_code#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7599577621032099372" fileName="City.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setIata_code#(Ljava/lang/String;)V" />
+    <scopeInfo nodeId="7599577621032099350" fileName="City.java" startLine="11" startPosition="17" endLine="11" endPosition="17" />
+    <scopeInfo nodeId="7599577621032099356" fileName="City.java" startLine="14" startPosition="27" endLine="15" endPosition="29" />
+    <scopeInfo nodeId="7599577621032099356" fileName="City.java" startLine="18" startPosition="37" endLine="19" endPosition="30" />
+    <scopeInfo nodeId="7599577621032099364" fileName="City.java" startLine="22" startPosition="30" endLine="23" endPosition="32" />
+    <scopeInfo nodeId="7599577621032099364" fileName="City.java" startLine="26" startPosition="40" endLine="27" endPosition="33" />
+    <scopeInfo nodeId="7599577621032099372" fileName="City.java" startLine="30" startPosition="32" endLine="31" endPosition="34" />
+    <scopeInfo nodeId="7599577621032099372" fileName="City.java" startLine="34" startPosition="42" endLine="35" endPosition="35" />
+    <scopeInfo nodeId="7599577621032099350" fileName="City.java" startLine="10" startPosition="0" endLine="12" endPosition="3" />
+    <scopeInfo nodeId="7599577621032099356" fileName="City.java" startLine="13" startPosition="0" endLine="17" endPosition="0" />
+    <scopeInfo nodeId="7599577621032099356" fileName="City.java" startLine="17" startPosition="0" endLine="21" endPosition="0">
+      <varInfo nodeId="7599577621032099356" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621032099364" fileName="City.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="7599577621032099364" fileName="City.java" startLine="25" startPosition="0" endLine="29" endPosition="0">
+      <varInfo nodeId="7599577621032099364" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621032099372" fileName="City.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="7599577621032099372" fileName="City.java" startLine="33" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="7599577621032099372" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="7599577621032099350" fileName="City.java" startLine="6" startPosition="0" endLine="38" endPosition="0" unitName="ru.agent.dictionary.beans.City" />
+  </root>
+</debugInfo>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>ru.agent</groupId>
+        <artifactId>corporate.pom</artifactId>
+        <version>3.15-SNAPSHOT</version>
+        <relativePath>../corporate.pom/pom.xml</relativePath>
+    </parent>
+
+    <groupId>ru.agent.meta</groupId>
+    <artifactId>dictionary-beans</artifactId>
+    <name>dictionary-beans</name>
+
+    <packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>ru.agent.meta</groupId>
+            <artifactId>meta-aspect</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <sourceDirectory>${project.basedir}/src/main/mps/solutions/ru.agent.dictionary/java</sourceDirectory>
+    </build>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="5vxo" modelUID="r:5cec0dd7-a7f5-4190-b0fe-d04c6b1385e7(ru.agent.beldum.structure)" version="-1" />
+    </dependencies>
+    <rename id="5vxo.3287257693029598416" type="CONCEPT" from="PresentationNean" to="PresentationBean" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5vxo" modelUID="r:5cec0dd7-a7f5-4190-b0fe-d04c6b1385e7(ru.agent.beldum.structure)" version="0" />
+    </dependencies>
+    <rename id="5vxo.5263054207290092848" type="CONCEPT" from="BeanPropReference" to="BeanFieldReference" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5vxo" modelUID="r:5cec0dd7-a7f5-4190-b0fe-d04c6b1385e7(ru.agent.beldum.structure)" version="1" />
+    </dependencies>
+    <rename id="5vxo.4294534304808367497" type="CHILD" from="from" to="source" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5vxo" modelUID="r:5cec0dd7-a7f5-4190-b0fe-d04c6b1385e7(ru.agent.beldum.structure)" version="2" />
+    </dependencies>
+    <rename id="5vxo.4294534304808367498" type="CHILD" from="to" to="target" />
+  </StructureModification>
+</history>
+

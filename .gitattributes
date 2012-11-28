@@ -1,0 +1,6 @@
+* text=auto
+*.mpr text
+dependencies merge=mps
+generated merge=mps
+*.mps merge=mps
+trace.info merge=mps

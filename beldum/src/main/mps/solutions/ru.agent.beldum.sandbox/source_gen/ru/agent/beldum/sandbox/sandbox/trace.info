@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="1278577714818250857" modelId="r:b0f1843d-6f7f-4326-b8e2-99741dbd5352(ru.agent.beldum.sandbox.sandbox)">
+    <nodeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="7" startPosition="29" endLine="8" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourName" />
+    <nodeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="8" startPosition="25" endLine="9" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourAmount" />
+    <nodeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="9" startPosition="25" endLine="10" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourSecurityCide" />
+    <nodeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="10" startPosition="31" endLine="11" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourFromCity" />
+    <nodeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="16" startPosition="27" endLine="17" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="20" startPosition="37" endLine="21" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="24" startPosition="27" endLine="25" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="28" startPosition="37" endLine="29" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="32" startPosition="33" endLine="33" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="36" startPosition="43" endLine="37" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="40" startPosition="29" endLine="41" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="44" startPosition="39" endLine="45" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1278577714818250857" fileName="TransportOrder.java" startLine="12" startPosition="0" endLine="14" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TransportOrder#()V" />
+    <nodeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="15" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="19" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAmount#()J" />
+    <nodeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAmount#(J)V" />
+    <nodeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSecurityCide#()J" />
+    <nodeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setSecurityCide#(J)V" />
+    <nodeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getFromCity#()Lru/agent/dictionary/beans/City;" />
+    <nodeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setFromCity#(Lru/agent/dictionary/beans/City;)V" />
+    <scopeInfo nodeId="1278577714818250857" fileName="TransportOrder.java" startLine="13" startPosition="27" endLine="13" endPosition="27" />
+    <scopeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="16" startPosition="27" endLine="17" endPosition="39" />
+    <scopeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="20" startPosition="37" endLine="21" endPosition="40" />
+    <scopeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="24" startPosition="27" endLine="25" endPosition="41" />
+    <scopeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="28" startPosition="37" endLine="29" endPosition="42" />
+    <scopeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="32" startPosition="33" endLine="33" endPosition="47" />
+    <scopeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="36" startPosition="43" endLine="37" endPosition="48" />
+    <scopeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="40" startPosition="29" endLine="41" endPosition="43" />
+    <scopeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="44" startPosition="39" endLine="45" endPosition="44" />
+    <scopeInfo nodeId="1278577714818250857" fileName="TransportOrder.java" startLine="12" startPosition="0" endLine="14" endPosition="3" />
+    <scopeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="15" startPosition="0" endLine="19" endPosition="0" />
+    <scopeInfo nodeId="1278577714818271510" fileName="TransportOrder.java" startLine="19" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="1278577714818271510" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="1278577714818276551" fileName="TransportOrder.java" startLine="27" startPosition="0" endLine="31" endPosition="0">
+      <varInfo nodeId="1278577714818276551" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="4577743567493094656" fileName="TransportOrder.java" startLine="35" startPosition="0" endLine="39" endPosition="0">
+      <varInfo nodeId="4577743567493094656" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="7599577621032142730" fileName="TransportOrder.java" startLine="43" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="7599577621032142730" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="1278577714818250857" fileName="TransportOrder.java" startLine="7" startPosition="0" endLine="48" endPosition="0" unitName="ru.agent.beldum.sandbox.sandbox.TransportOrder" />
+  </root>
+  <root nodeId="1278577714818277901" modelId="r:b0f1843d-6f7f-4326-b8e2-99741dbd5352(ru.agent.beldum.sandbox.sandbox)">
+    <nodeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="11" startPosition="21" endLine="12" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourId" />
+    <nodeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="12" startPosition="20" endLine="13" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourAlias" />
+    <nodeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="13" startPosition="26" endLine="14" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourUnnamed" />
+    <nodeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="14" startPosition="60" endLine="15" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourMap" />
+    <nodeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="15" startPosition="53" endLine="16" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourUnnamedShit" />
+    <nodeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="21" startPosition="22" endLine="22" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="25" startPosition="32" endLine="26" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="29" startPosition="28" endLine="30" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="33" startPosition="38" endLine="34" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="37" startPosition="44" endLine="38" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="41" startPosition="54" endLine="42" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="45" startPosition="39" endLine="46" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="49" startPosition="49" endLine="50" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="53" startPosition="36" endLine="54" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="57" startPosition="46" endLine="58" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1278577714818277901" fileName="NoName.java" startLine="17" startPosition="0" endLine="19" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="NoName#()V" />
+    <nodeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getId#()I" />
+    <nodeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setId#(I)V" />
+    <nodeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getUnnamed#()Ljava/util/List;" />
+    <nodeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="40" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setUnnamed#(Ljava/util/List;)V" />
+    <nodeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getMap#()Ljava/util/Map;" />
+    <nodeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="48" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setMap#(Ljava/util/Map;)V" />
+    <nodeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="52" startPosition="0" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getUnnamedShit#()Ljava/util/concurrent/Executor;" />
+    <nodeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="56" startPosition="0" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setUnnamedShit#(Ljava/util/concurrent/Executor;)V" />
+    <scopeInfo nodeId="1278577714818277901" fileName="NoName.java" startLine="18" startPosition="19" endLine="18" endPosition="19" />
+    <scopeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="21" startPosition="22" endLine="22" endPosition="29" />
+    <scopeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="25" startPosition="32" endLine="26" endPosition="30" />
+    <scopeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="29" startPosition="28" endLine="30" endPosition="32" />
+    <scopeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="33" startPosition="38" endLine="34" endPosition="33" />
+    <scopeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="37" startPosition="44" endLine="38" endPosition="34" />
+    <scopeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="41" startPosition="54" endLine="42" endPosition="35" />
+    <scopeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="45" startPosition="39" endLine="46" endPosition="30" />
+    <scopeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="49" startPosition="49" endLine="50" endPosition="31" />
+    <scopeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="53" startPosition="36" endLine="54" endPosition="38" />
+    <scopeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="57" startPosition="46" endLine="58" endPosition="39" />
+    <scopeInfo nodeId="1278577714818277901" fileName="NoName.java" startLine="17" startPosition="0" endLine="19" endPosition="3" />
+    <scopeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="1278577714818391041" fileName="NoName.java" startLine="24" startPosition="0" endLine="28" endPosition="0">
+      <varInfo nodeId="1278577714818391041" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="4577743567492934898" fileName="NoName.java" startLine="32" startPosition="0" endLine="36" endPosition="0">
+      <varInfo nodeId="4577743567492934898" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="4577743567492932354" fileName="NoName.java" startLine="40" startPosition="0" endLine="44" endPosition="0">
+      <varInfo nodeId="4577743567492932354" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="4577743567492934883" fileName="NoName.java" startLine="48" startPosition="0" endLine="52" endPosition="0">
+      <varInfo nodeId="4577743567492934883" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="52" startPosition="0" endLine="56" endPosition="0" />
+    <scopeInfo nodeId="4577743567493033876" fileName="NoName.java" startLine="56" startPosition="0" endLine="60" endPosition="0">
+      <varInfo nodeId="4577743567493033876" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="1278577714818277901" fileName="NoName.java" startLine="11" startPosition="0" endLine="61" endPosition="0" unitName="ru.agent.beldum.sandbox.sandbox.NoName" />
+  </root>
+  <root nodeId="1278577714818406015" modelId="r:b0f1843d-6f7f-4326-b8e2-99741dbd5352(ru.agent.beldum.sandbox.sandbox)">
+    <nodeInfo nodeId="4577743567493030498" fileName="Transform.java" startLine="11" startPosition="53" endLine="12" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1278577714818406017" fileName="Transform.java" startLine="7" startPosition="24" endLine="9" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Transform#()V" />
+    <nodeInfo nodeId="1278577714818406029" fileName="Transform.java" startLine="10" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="transform#(Lru/agent/dictionary/beans/City;Lru/agent/beldum/sandbox/sandbox/NoName;)V" />
+    <scopeInfo nodeId="1278577714818406020" fileName="Transform.java" startLine="8" startPosition="22" endLine="8" endPosition="22" />
+    <scopeInfo nodeId="1278577714818406032" fileName="Transform.java" startLine="11" startPosition="53" endLine="12" endPosition="38" />
+    <scopeInfo nodeId="1278577714818406017" fileName="Transform.java" startLine="7" startPosition="24" endLine="9" endPosition="3" />
+    <scopeInfo nodeId="1278577714818406029" fileName="Transform.java" startLine="10" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="1278577714818406033" varName="source" />
+      <varInfo nodeId="4577743567493030494" varName="target" />
+    </scopeInfo>
+    <unitInfo nodeId="1278577714818406015" fileName="Transform.java" startLine="7" startPosition="0" endLine="15" endPosition="0" unitName="ru.agent.beldum.sandbox.sandbox.Transform" />
+  </root>
+  <root nodeId="5263054207290075745" modelId="r:b0f1843d-6f7f-4326-b8e2-99741dbd5352(ru.agent.beldum.sandbox.sandbox)">
+    <nodeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="6" startPosition="20" endLine="7" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourName" />
+    <nodeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="7" startPosition="25" endLine="8" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourAmount" />
+    <nodeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="8" startPosition="25" endLine="9" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ourSecurityCode" />
+    <nodeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="14" startPosition="27" endLine="15" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="18" startPosition="37" endLine="19" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="22" startPosition="27" endLine="23" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="26" startPosition="37" endLine="27" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="30" startPosition="33" endLine="31" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="34" startPosition="43" endLine="35" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5263054207290075745" fileName="Order.java" startLine="10" startPosition="0" endLine="12" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Order#()V" />
+    <nodeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAmount#()J" />
+    <nodeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAmount#(J)V" />
+    <nodeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSecurityCode#()B" />
+    <nodeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setSecurityCode#(B)V" />
+    <scopeInfo nodeId="5263054207290075745" fileName="Order.java" startLine="11" startPosition="18" endLine="11" endPosition="18" />
+    <scopeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="14" startPosition="27" endLine="15" endPosition="30" />
+    <scopeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="18" startPosition="37" endLine="19" endPosition="31" />
+    <scopeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="22" startPosition="27" endLine="23" endPosition="32" />
+    <scopeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="26" startPosition="37" endLine="27" endPosition="33" />
+    <scopeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="30" startPosition="33" endLine="31" endPosition="38" />
+    <scopeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="34" startPosition="43" endLine="35" endPosition="39" />
+    <scopeInfo nodeId="5263054207290075745" fileName="Order.java" startLine="10" startPosition="0" endLine="12" endPosition="3" />
+    <scopeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="13" startPosition="0" endLine="17" endPosition="0" />
+    <scopeInfo nodeId="3965988441740268174" fileName="Order.java" startLine="17" startPosition="0" endLine="21" endPosition="0">
+      <varInfo nodeId="3965988441740268174" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="3965988441740268182" fileName="Order.java" startLine="25" startPosition="0" endLine="29" endPosition="0">
+      <varInfo nodeId="3965988441740268182" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="3965988441740268190" fileName="Order.java" startLine="33" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="3965988441740268190" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="5263054207290075745" fileName="Order.java" startLine="6" startPosition="0" endLine="38" endPosition="0" unitName="ru.agent.beldum.sandbox.sandbox.Order" />
+  </root>
+</debugInfo>
+

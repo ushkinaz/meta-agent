@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="ru.agent.beldum.sandbox.sandbox.NoName" file="NoName.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.ArrayList" />
+    <classNode dependClassName="java.util.HashMap" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="java.util.Map" />
+    <classNode dependClassName="java.util.concurrent.Executor" />
+    <classNode dependClassName="ru.agent.beldum.sandbox.sandbox.TransportOrder" />
+  </dependency>
+  <dependency className="ru.agent.beldum.sandbox.sandbox.Order" file="Order.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="ru.agent.beldum.sandbox.sandbox.Transform" file="Transform.java">
+    <classNode dependClassName="ru.agent.beldum.sandbox.sandbox.NoName" />
+    <classNode dependClassName="ru.agent.dictionary.beans.City" />
+  </dependency>
+  <dependency className="ru.agent.beldum.sandbox.sandbox.TransportOrder" file="TransportOrder.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="ru.agent.dictionary.beans.City" />
+  </dependency>
+</dependenciesRoot>
+

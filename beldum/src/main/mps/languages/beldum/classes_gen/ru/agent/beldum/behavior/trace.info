@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BeanDescriptor_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="ru.agent.beldum.behavior.BeanDescriptor_BehaviorDescriptor" />
+  <unitInfo fileName="BeanFieldReference_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="ru.agent.beldum.behavior.BeanFieldReference_BehaviorDescriptor" />
+  <unitInfo fileName="BeanField_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="ru.agent.beldum.behavior.BeanField_BehaviorDescriptor" />
+  <unitInfo fileName="BeanTransformation_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="ru.agent.beldum.behavior.BeanTransformation_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="40" endPosition="0" unitName="ru.agent.beldum.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="CustomStrategy_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="ru.agent.beldum.behavior.CustomStrategy_BehaviorDescriptor" />
+  <unitInfo fileName="DiscardStrategy_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="20" endPosition="0" unitName="ru.agent.beldum.behavior.DiscardStrategy_BehaviorDescriptor" />
+  <unitInfo fileName="FieldTransformation_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="ru.agent.beldum.behavior.FieldTransformation_BehaviorDescriptor" />
+  <unitInfo fileName="HasDocumentation_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="ru.agent.beldum.behavior.HasDocumentation_BehaviorDescriptor" />
+  <unitInfo fileName="HasName_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="9" endPosition="0" unitName="ru.agent.beldum.behavior.HasName_BehaviorDescriptor" />
+  <unitInfo fileName="PresentationBean_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="ru.agent.beldum.behavior.PresentationBean_BehaviorDescriptor" />
+  <unitInfo fileName="SimpleCopyStrategy_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="ru.agent.beldum.behavior.SimpleCopyStrategy_BehaviorDescriptor" />
+  <unitInfo fileName="TransformationStrategy_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="ru.agent.beldum.behavior.TransformationStrategy_BehaviorDescriptor" />
+  <unitInfo fileName="TransportBean_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="ru.agent.beldum.behavior.TransportBean_BehaviorDescriptor" />
+  <root nodeId="3352977046009450887" modelId="r:7779c801-b231-4365-a22c-6542dcfe8ff9(ru.agent.beldum.behavior)">
+    <nodeInfo nodeId="3352977046009450895" fileName="BeanDescriptor_Behavior.java" startLine="14" startPosition="77" endLine="15" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3352977046009450935" fileName="BeanDescriptor_Behavior.java" startLine="18" startPosition="76" endLine="19" endPosition="156" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3352977046009450887" fileName="BeanDescriptor_Behavior.java" startLine="10" startPosition="38" endLine="13" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="3352977046009450887" fileName="BeanDescriptor_Behavior.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getBeanName_3352977046009450890#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3352977046009450887" fileName="BeanDescriptor_Behavior.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getBeanFQN_3352977046009450930#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <scopeInfo nodeId="3352977046009450889" fileName="BeanDescriptor_Behavior.java" startLine="11" startPosition="43" endLine="11" endPosition="43" />
+    <scopeInfo nodeId="3352977046009450893" fileName="BeanDescriptor_Behavior.java" startLine="14" startPosition="77" endLine="15" endPosition="59" />
+    <scopeInfo nodeId="3352977046009450933" fileName="BeanDescriptor_Behavior.java" startLine="18" startPosition="76" endLine="19" endPosition="156" />
+    <scopeInfo nodeId="3352977046009450887" fileName="BeanDescriptor_Behavior.java" startLine="10" startPosition="38" endLine="13" endPosition="0">
+      <varInfo nodeId="3352977046009450887" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="3352977046009450887" fileName="BeanDescriptor_Behavior.java" startLine="13" startPosition="0" endLine="17" endPosition="0">
+      <varInfo nodeId="3352977046009450887" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="3352977046009450887" fileName="BeanDescriptor_Behavior.java" startLine="17" startPosition="0" endLine="21" endPosition="0">
+      <varInfo nodeId="3352977046009450887" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="3352977046009450887" fileName="BeanDescriptor_Behavior.java" startLine="10" startPosition="0" endLine="22" endPosition="0" unitName="ru.agent.beldum.behavior.BeanDescriptor_Behavior" />
+  </root>
+  <root nodeId="3965988441740291991" modelId="r:7779c801-b231-4365-a22c-6542dcfe8ff9(ru.agent.beldum.behavior)">
+    <nodeInfo nodeId="3965988441740291991" fileName="BeanTransformation_Behavior.java" startLine="7" startPosition="42" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <scopeInfo nodeId="3965988441740291993" fileName="BeanTransformation_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+    <scopeInfo nodeId="3965988441740291991" fileName="BeanTransformation_Behavior.java" startLine="7" startPosition="42" endLine="10" endPosition="0">
+      <varInfo nodeId="3965988441740291991" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="3965988441740291991" fileName="BeanTransformation_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="ru.agent.beldum.behavior.BeanTransformation_Behavior" />
+  </root>
+  <root nodeId="7323242700666034326" modelId="r:7779c801-b231-4365-a22c-6542dcfe8ff9(ru.agent.beldum.behavior)">
+    <nodeInfo nodeId="7323242700666034329" fileName="BeanField_Behavior.java" startLine="11" startPosition="43" endLine="12" endPosition="138" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7323242700666034486" fileName="BeanField_Behavior.java" startLine="12" startPosition="138" endLine="13" endPosition="178" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7323242700666035557" fileName="BeanField_Behavior.java" startLine="13" startPosition="178" endLine="14" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7323242700666035561" fileName="BeanField_Behavior.java" startLine="14" startPosition="120" endLine="15" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7323242700666034515" fileName="BeanField_Behavior.java" startLine="15" startPosition="120" endLine="16" endPosition="165" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4577743567493121564" fileName="BeanField_Behavior.java" startLine="16" startPosition="165" endLine="17" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1278577714818296675" fileName="BeanField_Behavior.java" startLine="20" startPosition="84" endLine="21" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7323242700666034326" fileName="BeanField_Behavior.java" startLine="19" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getClearMethodName_1278577714818296598#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7323242700666034326" fileName="BeanField_Behavior.java" startLine="10" startPosition="33" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <scopeInfo nodeId="1278577714818296601" fileName="BeanField_Behavior.java" startLine="20" startPosition="84" endLine="21" endPosition="77" />
+    <scopeInfo nodeId="7323242700666034326" fileName="BeanField_Behavior.java" startLine="19" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="7323242700666034326" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7323242700666034328" fileName="BeanField_Behavior.java" startLine="11" startPosition="43" endLine="17" endPosition="70">
+      <varInfo nodeId="7323242700666034487" varName="pimpl" />
+    </scopeInfo>
+    <scopeInfo nodeId="7323242700666034326" fileName="BeanField_Behavior.java" startLine="10" startPosition="33" endLine="19" endPosition="0">
+      <varInfo nodeId="7323242700666034326" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="7323242700666034326" fileName="BeanField_Behavior.java" startLine="10" startPosition="0" endLine="24" endPosition="0" unitName="ru.agent.beldum.behavior.BeanField_Behavior" />
+  </root>
+  <root nodeId="7599577621034530102" modelId="r:7779c801-b231-4365-a22c-6542dcfe8ff9(ru.agent.beldum.behavior)">
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="11" startPosition="46" endLine="12" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="PARAMETERS_7599577621034530105" />
+    <nodeInfo nodeId="7599577621034530110" fileName="TransformationStrategy_Behavior.java" startLine="17" startPosition="89" endLine="18" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="21" startPosition="86" endLine="22" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="22" startPosition="113" endLine="23" endPosition="237" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="26" startPosition="119" endLine="27" endPosition="282" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="13" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_supportsTargetField_7599577621034530105#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="callSuper_supportsTargetField_7599577621034530105#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="20" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_supportsTargetField_7599577621034530105#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <scopeInfo nodeId="7599577621034530104" fileName="TransformationStrategy_Behavior.java" startLine="14" startPosition="43" endLine="14" endPosition="43" />
+    <scopeInfo nodeId="7599577621034530108" fileName="TransformationStrategy_Behavior.java" startLine="17" startPosition="89" endLine="18" endPosition="16" />
+    <scopeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="26" startPosition="119" endLine="27" endPosition="282" />
+    <scopeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="21" startPosition="86" endLine="23" endPosition="237">
+      <varInfo nodeId="7599577621034530102" varName="descriptor" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="13" startPosition="0" endLine="16" endPosition="0">
+      <varInfo nodeId="7599577621034530102" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="16" startPosition="0" endLine="20" endPosition="0">
+      <varInfo nodeId="7599577621034530102" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="25" startPosition="0" endLine="29" endPosition="0">
+      <varInfo nodeId="7599577621034530102" varName="callerConceptFqName" />
+      <varInfo nodeId="7599577621034530102" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="20" startPosition="0" endLine="25" endPosition="0">
+      <varInfo nodeId="7599577621034530102" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="7599577621034530102" fileName="TransformationStrategy_Behavior.java" startLine="11" startPosition="0" endLine="30" endPosition="0" unitName="ru.agent.beldum.behavior.TransformationStrategy_Behavior" />
+  </root>
+  <root nodeId="7599577621034530114" modelId="r:7779c801-b231-4365-a22c-6542dcfe8ff9(ru.agent.beldum.behavior)">
+    <nodeInfo nodeId="7599577621034530121" fileName="DiscardStrategy_Behavior.java" startLine="11" startPosition="89" endLine="12" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7599577621034530114" fileName="DiscardStrategy_Behavior.java" startLine="7" startPosition="39" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7599577621034530114" fileName="DiscardStrategy_Behavior.java" startLine="10" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_supportsTargetField_7599577621034530105#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <scopeInfo nodeId="7599577621034530116" fileName="DiscardStrategy_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+    <scopeInfo nodeId="7599577621034530119" fileName="DiscardStrategy_Behavior.java" startLine="11" startPosition="89" endLine="12" endPosition="17" />
+    <scopeInfo nodeId="7599577621034530114" fileName="DiscardStrategy_Behavior.java" startLine="7" startPosition="39" endLine="10" endPosition="0">
+      <varInfo nodeId="7599577621034530114" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="7599577621034530114" fileName="DiscardStrategy_Behavior.java" startLine="10" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="7599577621034530114" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="7599577621034530114" fileName="DiscardStrategy_Behavior.java" startLine="7" startPosition="0" endLine="15" endPosition="0" unitName="ru.agent.beldum.behavior.DiscardStrategy_Behavior" />
+  </root>
+</debugInfo>
+

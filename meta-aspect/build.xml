@@ -1,0 +1,55 @@
+<project name="meta.agent.ru" default="build-solutions">
+
+    <taskdef resource="jetbrains/mps/build/ant/antlib.xml">
+        <classpath>
+            <pathelement location="${mps.home}/lib/mps-backend.jar"/>
+            <pathelement location="${mps.home}/lib/mps-core.jar"/>
+            <pathelement location="${mps.home}/lib/jdom.jar"/>
+            <pathelement location="${mps.home}/lib/log4j.jar"/>
+        </classpath>
+    </taskdef>
+
+    <jvmargs id="myargs">
+        <arg value="-ea"/>
+        <arg value="-Xss1024k"/>
+        <arg value="-Xmx1024m"/>
+        <arg value="-XX:MaxPermSize=92m"/>
+        <arg value="-XX:+HeapDumpOnOutOfMemoryError"/>
+    </jvmargs>
+
+    <target name="build-languages" description="Build languages used in project">
+        <mps.generate fork="on" parallelmode="on">
+            <!--suppress AntResolveInspection -->
+            <jvmargs refid="myargs"/>
+            <modules dir="${project.home}/beldum/src/main/mps/languages/beldum"/>
+        </mps.generate>
+    </target>
+
+    <target name="build-solutions" depends="build-languages" description="Generate output files for solutions">
+        <mps.generate loglevel="info" failonerror="on" compile="on" parallelmode="on" fork="on">
+            <!--suppress AntResolveInspection -->
+            <jvmargs refid="myargs"/>
+
+            <library name="devkit" dir="${project.home}/beldum/src/main/mps/devkits/ru.agent.meta.devkit"/>
+            <library name="beldum" dir="${project.home}/beldum/src/main/mps/languages/beldum"/>
+
+            <!--
+            for each module do
+            <library name="sandbox" dir="${project.home}/beldum/solutions/ru.agent.beldum.sandbox"/>
+            <model dir="${project.home}/beldum/solutions/ru.agent.beldum.sandbox"/>
+-->
+
+            <!--
+                        <model dir="${project.home}/beldum/solutions/ru.agent.beldum.sandbox"/>
+                        <library name="sandbox" dir="${project.home}/beldum/solutions/ru.agent.beldum.sandbox"/>
+            -->
+
+            <library name="meta-libs"
+                     dir="${project.home}/meta-aspect/src/main/mps/solutions/ru.agent.meta"/>
+            <model dir="${project.home}/meta-aspect/src/main/mps/solutions/ru.agent.meta"/>
+            <library name="dictionary-beans"
+                     dir="${project.home}/dictionary-beans/src/main/mps/ru.agent.dictionary"/>
+            <model dir="${project.home}/dictionary-beans/src/main/mps/solutions/ru.agent.dictionary"/>
+        </mps.generate>
+    </target>
+</project>

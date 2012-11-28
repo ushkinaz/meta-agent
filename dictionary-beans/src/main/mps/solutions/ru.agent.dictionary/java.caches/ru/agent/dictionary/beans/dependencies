@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="ru.agent.dictionary.beans.City" file="City.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="ru.agent.dictionary.beans.Order" file="Order.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+

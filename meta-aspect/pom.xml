@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>ru.agent</groupId>
+        <artifactId>corporate.pom</artifactId>
+        <version>3.15-SNAPSHOT</version>
+        <relativePath>../corporate.pom/pom.xml</relativePath>
+    </parent>
+
+    <groupId>ru.agent.meta</groupId>
+    <artifactId>meta-aspect</artifactId>
+    <name>meta-aspect</name>
+    <description>Dependencies for all MPS modules, actual generation from models. Holds all external libs</description>
+
+    <properties>
+        <!--TODO: extract version to parent-->
+        <mps.version>2.5.2</mps.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-ext</artifactId>
+            <version>${slf4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>${commons.lang.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>joda-time</groupId>
+            <artifactId>joda-time</artifactId>
+            <!--TODO: extract version-->
+            <version>2.1</version>
+        </dependency>
+
+        <!--MPS deps-->
+        <dependency>
+            <groupId>jetbrains.mps.baseLanguage</groupId>
+            <artifactId>dates</artifactId>
+            <version>${mps.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>jetbrains.mps.baseLanguage</groupId>
+            <artifactId>collections</artifactId>
+            <version>${mps.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>jetbrains.mps.baseLanguage</groupId>
+            <artifactId>closures</artifactId>
+            <version>${mps.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>jetbrains.mps.baseLanguage</groupId>
+            <artifactId>tuples</artifactId>
+            <version>${mps.version}</version>
+        </dependency>
+        <!--MPS deps end-->
+    </dependencies>
+
+    <build>
+        <defaultGoal>package</defaultGoal>
+        <plugins>
+        </plugins>
+
+    </build>
+
+    <profiles>
+        <profile>
+            <id>mps-generate</id>
+            <properties>
+                <project.home>${project.basedir}/../</project.home>
+            </properties>
+            <build>
+                <plugins>
+                    <plugin>
+                        <artifactId>maven-enforcer-plugin</artifactId>
+                        <version>1.1.1</version>
+                        <executions>
+                            <execution>
+                                <id>enforce-properties</id>
+                                <goals>
+                                    <goal>enforce</goal>
+                                </goals>
+                                <configuration>
+                                    <rules>
+                                        <requireProperty>
+                                            <property>mps.home</property>
+                                            <message>"You must have mps.home property set!"</message>
+                                        </requireProperty>
+                                    </rules>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <artifactId>maven-dependency-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <id>copy-libs</id>
+                                <phase>initialize</phase>
+                                <goals>
+                                    <goal>copy-dependencies</goal>
+                                </goals>
+                                <configuration>
+                                    <excludeTransitive>true</excludeTransitive>
+                                    <excludeGroupIds>jetbrains.mps.baseLanguage</excludeGroupIds>
+                                    <stripVersion>true</stripVersion>
+                                    <outputDirectory>${project.basedir}/src/main/mps/solutions/ru.agent.meta/lib</outputDirectory>
+                                    <includeScope>compile</includeScope>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <artifactId>maven-antrun-plugin</artifactId>
+                        <version>1.7</version>
+                        <executions>
+                            <execution>
+                                <id>generate-stuff</id>
+                                <phase>generate-sources</phase>
+                                <inherited>true</inherited>
+                                <goals>
+                                    <goal>run</goal>
+                                </goals>
+                                <configuration>
+                                    <target>
+                                        <ant antfile="build.xml"/>
+                                    </target>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+</project>
