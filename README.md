@@ -1,10 +1,6 @@
 meta-agent
 ====
 
-prototype of MPS-fueled backend for agent.ru
+prototype of [MPS](www.jetbrains.com/mps/)-fueled backend for agent.ru
 
-Build by
-<code>
-	cd meta-aggregator
-	mvn clean install
-</code>
+Fun by ` cd meta-aggregator; mvn clean install`
